@@ -1,2 +1,5 @@
-# 1GC24CS089
-My First Repository with Git Bash VS Code
+First Name: Rida
+Lat Name: Harmain
+Email ID: ridaharmain379@gmail.com
+Github ID: ridaharmain379-cmd
+Mobile Number: 6360313194
